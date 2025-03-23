@@ -1,0 +1,35 @@
+# Ignore virtual environment and related Python files
+.env
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files, cache, and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore editor configuration files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore Jupyter Notebook output files
+*.nbconvert.ipynb
+
+# Ignore large or sensitive data files
+data/
+dataset/
+*.csv
+*.xlsx
+*.json
+*.db
+*.sqlite3
+
+# Ignore large of test.csv
+.test.csv
