@@ -22,39 +22,39 @@ This project is built using the following Python libraries:
 ## ⚙️ Project Workflow
 1. Data Loading & Cleaning
 
-- Merge sales_train.csv and stores.csv
+  - Merge sales_train.csv and stores.csv
 
-- Handle missing values, outliers, and date formatting
+  - Handle missing values, outliers, and date formatting
 
 2. Exploratory Data Analysis (EDA)
 
-- Visualize sales trends over time
+  - Visualize sales trends over time
 
-- Analyze store performance
+  - Analyze store performance
 
-- Correlation analysis using heatmaps
+  - Correlation analysis using heatmaps
 
 3. Feature Engineering
 
-- Extract date features (month, year, etc.)
+  - Extract date features (month, year, etc.)
 
-- Encode categorical variables
+  - Encode categorical variables
 
 4. Dimensionality Reduction
 
-- Apply PCA to reduce feature space and speed up model training
+  - Apply PCA to reduce feature space and speed up model training
 
 5. Model Building
 
-- Build an Artificial Neural Network (ANN) to predict sales
+  - Build an Artificial Neural Network (ANN) to predict sales
 
-- Train/test split and model evaluation
+  - Train/test split and model evaluation
 
 6. Model Evaluation
 
-- Metrics: MAE, RMSE, and accuracy (depending on regression or classification goal)
+  - Metrics: MAE, RMSE, and accuracy (depending on regression or classification goal)
 
-- Visualize loss and accuracy trends
+  - Visualize loss and accuracy trends
 
 ## 📊 Visualizations
 - Time-series plots of sales
